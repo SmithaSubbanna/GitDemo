@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="90" started-at="2021-09-06T12:27:04Z" finished-at="2021-09-06T12:27:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="90" started-at="2021-09-06T12:27:04Z" finished-at="2021-09-06T12:27:04Z">
+      <class name="mavenprojectpractice.ApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:mavenprojectpractice.ApiTest@7ff95560]" name="deleteTwitter" duration-ms="0" started-at="2021-09-06T17:57:04Z" finished-at="2021-09-06T17:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:mavenprojectpractice.ApiTest@7ff95560]" name="postJira" duration-ms="1" started-at="2021-09-06T17:57:04Z" finished-at="2021-09-06T17:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- mavenprojectpractice.ApiTest -->
+      <class name="mavenprojectpractice.AppiumTest">
+        <test-method status="PASS" signature="Androidapps()[pri:0, instance:mavenprojectpractice.AppiumTest@2cbb3d47]" name="Androidapps" duration-ms="23" started-at="2021-09-06T17:57:04Z" finished-at="2021-09-06T17:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Androidapps -->
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:mavenprojectpractice.AppiumTest@2cbb3d47]" name="IOSApps" duration-ms="2" started-at="2021-09-06T17:57:04Z" finished-at="2021-09-06T17:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+      </class> <!-- mavenprojectpractice.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
